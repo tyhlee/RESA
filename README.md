@@ -21,7 +21,7 @@ There are four mandatory inputs for RESA: setting, age, sex, and the number of s
 A sample patient data matrix is provided as part of the package.
 
 ```
-library(accept)
+library(RESA)
 samplePatients <- RESA::samplePatients
 ```
 
@@ -41,7 +41,7 @@ results <- resa(samplePatients)
 
 ## Cloud-based API Access 
 
-The [Peer Models Network](https://www.peermodelsnetwork.com) allows users to access RESA through the cloud. A MACRO-enabled Excel-file can be used to interact with the model and see the results. To download the PRISM Excel template file for ACCEPT, please refer to the [Peer Models Network model repository](https://models.peermodelsnetwork.com).
+The [Peer Models Network](https://www.peermodelsnetwork.com) allows users to access RESA through the cloud. A MACRO-enabled Excel-file can be used to interact with the model and see the results. To download the PRISM Excel template file for RESA, please refer to the [Peer Models Network model repository](https://models.peermodelsnetwork.com).
 
 ## Citation
 
