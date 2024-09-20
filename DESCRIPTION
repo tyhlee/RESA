@@ -18,3 +18,5 @@ RoxygenNote: 7.3.2
 Author: Tae Yoon Lee [aut, cre],
   Mohsen Sadatsafavi [aut, cph],
   Wenjia Chen [aut,cph]
+URL: https://github.com/tyhlee/RESA
+BugReports: https://github.com/tyhlee/RESA/issues
